@@ -13,3 +13,5 @@ I have selected the following features for future modeling:
 - Title
 - Release date (categorical)         
 - Budget (value)
+
+You can see and download the Ipython notebook[here]().
